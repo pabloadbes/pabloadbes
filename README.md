@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pabloadbes
-- 👀 I’m interested in COBOL, C, C++, Java, JavaScript, TypeScript, Angular, MySQL, SQLSERVER, PL-SQL, DB2, mongoDB
+- 👀 I’m interested in COBOL, C, C++, Java, SpringBoot, Hibernate, JPA, JavaScript, TypeScript, Angular, MySQL, SQLSERVER, PL-SQL, DB2, mongoDB
 - 🌱 I’m currently learning JavaScript, TypeScript, Angular, mongoDB
 - 💞️ I’m looking to collaborate on Open Source projects
 - 📫 How to reach me: pabloadbes@gmail.com
