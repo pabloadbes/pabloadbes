@@ -15,7 +15,7 @@ I am currently completing my **final Computer Engineering project** (Django + Po
 
 ## 📚 Currently working on
 - Final university project with **Django + PostgreSQL**  
-- Continuous training with **Angular + NestJS** && **Java / Spring Boot** 
+- Continuous training with **Angular + NestJS** & **Java / Spring Boot** 
 
 ---
 
