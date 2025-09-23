@@ -1,10 +1,37 @@
-- 👋 Hi, I’m @pabloadbes
-- 👀 I’m interested in COBOL, C, C++, Java, SpringBoot, Hibernate, JPA, JavaScript, TypeScript, Angular, Python, Django, MySQL, Postgre, SQLSERVER, PL-SQL, DB2, mongoDB
-- 🌱 I’m currently learning JavaScript, TypeScript, Angular, mongoDB
-- 💞️ I’m looking to collaborate on Open Source projects
-- 📫 How to reach me: pabloadbes@gmail.com
+# 👋 Hi, I'm Pablo
 
-<!---
-pabloadbes/pabloadbes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎯 **Backend / Fullstack Developer**, with a strong academic background and hands-on experience in real projects.  
+I am currently completing my **final Computer Engineering project** (Django + PostgreSQL) and actively seeking **remote developer opportunities**.
+
+---
+
+## 🚀 Tech Stack
+- **Backend:** Python (Django), Java (learning Spring Boot, Hibernate), Node.js (learning NestJS)  
+- **Frontend:** Angular, TypeScript, JavaScript  
+- **Databases:** PostgreSQL, MySQL  
+- **Other:** Git, Linux, Docker (learning), REST APIs  
+
+---
+
+## 📚 Currently working on
+- Final university project with **Django + PostgreSQL**  
+- Continuous training with **Angular + NestJS** && **Java / Spring Boot** 
+
+---
+
+## 💼 Experience
+- 💻 1.5 years as a **COBOL developer** in a banking environment (2012)  
+- 👨‍🏫 8 years teaching **programming and projects with Node.js, MySQL and JavaScript** in a technical school — a plus in terms of communication, mentoring and teamwork  
+
+---
+
+## 🌍 Looking for
+- **Backend or Fullstack Developer roles** (Java / Python / Node / Angular)  
+- **Remote projects** offering stability and professional growth  
+- Open to collaborating in **open source** for learning and networking  
+
+---
+
+## 📫 Contact
+- ✉️ Email: **pabloadbes@gmail.com**  
+- 💼 LinkedIn: **https://www.linkedin.com/in/pablo-adbes-074356169/**
