@@ -20,7 +20,7 @@ I am currently completing my **final Computer Engineering project** (Django + Po
 ---
 
 ## 💼 Experience
-- 💻 **Fullstack Developer** (Django + PostgreSQL), Government of Tierra del Fuego — real-world academic project. (Apr 2024 – present)
+- 💻 **Fullstack Developer** (Django + PostgreSQL), Government of Tierra del Fuego — survey response project. (Apr 2024 – present)
 - 👨‍🏫 8 years teaching **programming and projects with Node.js, MySQL and JavaScript** in a technical school — a plus in terms of communication, mentoring and teamwork  (2017 - present)
 - 💻 1.5 years as a **COBOL developer** in a banking environment (2012)  
 ---
