@@ -19,6 +19,15 @@ I am currently completing my **final Computer Engineering project** (Django + Po
 
 ---
 
+## 🌟 Featured Projects
+A selection of projects that showcase my work in backend and fullstack development.
+
+### 🔹 Survey response project 
+**Stack:** Django | PostgreSQL
+https://github.com/pabloadbes/MiPyMEs.git
+
+---
+
 ## 💼 Experience
 - 💻 **Fullstack Developer** (Django + PostgreSQL), Government of Tierra del Fuego — survey response project. (Apr 2024 – present)
 - 👨‍🏫 8 years teaching **programming and projects with Node.js, MySQL and JavaScript** in a technical school — a plus in terms of communication, mentoring and teamwork  (2017 - present)
